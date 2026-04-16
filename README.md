@@ -9,7 +9,7 @@ An end-to-end Excel project analysing the sales performance of 141 sales executi
 ```
 sales-performance-dashboard/
 │
-├── Chapter_-_10_-_End_to_End_Project_using_Excel.xlsm   # Main Excel file
+├── Sales_Performance_Dashboard.xlsm   # Main Excel file
 └── README.md                                             # Project documentation
 ```
 
