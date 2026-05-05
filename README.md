@@ -142,6 +142,12 @@ This dashboard enables sales managers to:
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Performance Dashboard](https://github.com/harshvgupta98/EXCEL_Sales_Performance_Dashboard/blob/main/Sales_Performance_Dashboard.png)
+
+---
+
 ## 🚀 How to Use
 
 1. Download the `.xlsm` file
