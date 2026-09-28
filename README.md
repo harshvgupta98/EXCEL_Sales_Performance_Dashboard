@@ -4,6 +4,12 @@ An Excel dashboard analysing the sales performance of 141 sales executives acros
 
 ---
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
+---
+
 ## Short Description
 
 An interactive Excel dashboard built to track and compare sales performance across a team of 141 executives. It identifies top performers, underperformers, target achievement percentages, and regional trends — all in a single screen view.
@@ -98,8 +104,4 @@ Bottom 5 Sales Executives:
 
 > This is a macro-enabled workbook (.xlsm) — make sure macros are enabled on open.
 
----
 
-## Dashboard Preview
-
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
